@@ -3,12 +3,14 @@ def print_hello():
     animals = ['dog','cat','hamster']
     foods = [
             'pizza',
-            'hamberger'
+            'hamberger',
+            'bob'
             ]
     names = [
             'john',
             'jane',
             'gil-dong',
+            'dong-eun',
             ]
     for f_name in names:
         print(f'hello , {f_name}')
